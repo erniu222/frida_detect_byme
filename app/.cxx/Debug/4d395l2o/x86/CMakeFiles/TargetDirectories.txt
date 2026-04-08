@@ -1,0 +1,3 @@
+/home/muyang/Desktop/kanxue2w/2NDK开发/app/.cxx/Debug/4d395l2o/x86/CMakeFiles/rebuild_cache.dir
+/home/muyang/Desktop/kanxue2w/2NDK开发/app/.cxx/Debug/4d395l2o/x86/CMakeFiles/edit_cache.dir
+/home/muyang/Desktop/kanxue2w/2NDK开发/app/.cxx/Debug/4d395l2o/x86/CMakeFiles/native-lib.dir

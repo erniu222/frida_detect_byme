@@ -1,0 +1,20 @@
+# ninja log v5
+0	14	1774156783	CMakeFiles/demondk.dir/RC4.c.o	4a855d7629de3ec
+0	288	1774156783	CMakeFiles/demondk.dir/native-lib.cpp.o	99a474e555dffca5
+288	357	1774156783	/home/muyang/Desktop/kanxue2w/2NDK开发/app/build/intermediates/cxx/Debug/4d395l2o/obj/armeabi-v7a/libdemondk.so	e9dd4131173c83d6
+1	294	1775026251	CMakeFiles/demondk.dir/base64.c.o	f4abf1dbcff47c69
+5	699	1775026252	CMakeFiles/demondk.dir/native-lib.cpp.o	99a474e555dffca5
+699	905	1775026252	/home/muyang/Desktop/kanxue2w/2NDK开发/app/build/intermediates/cxx/Debug/4d395l2o/obj/armeabi-v7a/libdemondk.so	f68779f0190c195f
+8	70	1775215488	build.ninja	f72ad17fcccc1841
+0	2	0	clean	9e92f66395e994c
+0	32	1775216997	CMakeFiles/native-lib.dir/RC4.c.o	1d91b4d1b6895c57
+1	33	1775216997	CMakeFiles/native-lib.dir/base64.c.o	c8867c652accd5b0
+1	345	1775216997	CMakeFiles/native-lib.dir/native-lib.cpp.o	11dcf88046f3a3c5
+0	6	0	clean	9e92f66395e994c
+1	23	1775217106	CMakeFiles/native-lib.dir/RC4.c.o	1d91b4d1b6895c57
+1	23	1775217106	CMakeFiles/native-lib.dir/base64.c.o	c8867c652accd5b0
+2	318	1775217106	CMakeFiles/native-lib.dir/native-lib.cpp.o	11dcf88046f3a3c5
+12	60	1775217217	build.ninja	f72ad17fcccc1841
+0	4	0	clean	9e92f66395e994c
+0	2	0	clean	9e92f66395e994c
+0	3	0	clean	9e92f66395e994c
